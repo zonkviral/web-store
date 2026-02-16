@@ -1,11 +1,3 @@
-# Maksym_Rekunenko_Web_Wrocław
-
-## 👤 Personal Information
-
-- **Name**: Maksym Rekunenko
-- **Tech Stack**: HTML, CSS, TypeScript (React)
-- **Location**: Wrocław, Poland
-
 ## 🌐 Live Demo
 
 [Click here to view the live application on GitHub Pages](https://maks-xex.github.io/web-store/)
